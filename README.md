@@ -4,14 +4,13 @@
 
 git clone https://github.com/assafm81/haproxy.1.6.git
 
-# enter the local copy
+# Enter the local copy
 
 cd haproxy.1.6
 
 #install haproxy
 
 rpm -ivh haproxy-1.6.9-1.x86_64.rpm
-
 
 #defualt haproxy.conf is install 
 
