@@ -12,6 +12,6 @@ cd haproxy.1.6
 
 rpm -ivh haproxy-1.6.9-1.x86_64.rpm
 
-#defualt haproxy.conf is install 
+#Example haproxy.conf is installed > statistics page:
 
 http://"yourhaproxysite":8081  username 'h' password 'h'
