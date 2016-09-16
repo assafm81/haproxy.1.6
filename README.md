@@ -2,5 +2,6 @@
 
 Run
 
-git clone 
+git clone https://github.com/assafm81/haproxy.1.6.git
+cd haproxy.1.6.git
 rpm -ivh haproxy-1.6.9-1.x86_64.rpm
